@@ -8,5 +8,5 @@
 
 ## Plans:
 ### 1)improve it to parse data as a website assistant
-###2)develop a frontend to interface with the bot
+### 2)develop a frontend to interface with the bot
 
